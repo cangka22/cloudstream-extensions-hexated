@@ -1,0 +1,8 @@
+{
+    "name": "hexated repository",
+    "description": "Add all repositories easily.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/cangka22/cloudstream-extensions-hexated/builds/plugins.json"
+    ]
+}
